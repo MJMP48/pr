@@ -48,6 +48,7 @@
 - [Python: курс для начинающих](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/stepik-certificate-Python_beginner.pdf)
 - [Python: курс для продвинутых](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/stepik-certificate-Python_advanced.pdf)
 - [Интерактивный тренажер по SQL](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/stepik-certificate-SQL.pdf)
+- [Сертификат F.A.C.C.T](https://github.com/MJMP48/pc/blob/ecd13ab44cd518a232410b4851c0e3a6dd430426/certificate_11.pdf)
 - [Работа Penetration Testing](https://hackmd.io/JuRaVzQxTQ2HJTwWF2Nmkg?view)
 
 
