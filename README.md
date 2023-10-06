@@ -33,7 +33,8 @@
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Сертификаты:)](https://git.io/typing-svg)
-- [Основы информационной безопасности](https://github.com/MJMP48/pictures/blob/main/certificate_1.pdf)
+
+- [Основы информационной безопасности](https://github.com/MJMP48/pictures/blob/88201171821563fc6dcbed434ab5ec1d9c5f9ebe/certificate_1.pdf)
 - [Сети передачи данных и безопасность](https://github.com/MJMP48/pictures/blob/main/certificate_2.pdf)
 - [Git — система контроля версий](https://github.com/MJMP48/pictures/blob/main/certificate_3.pdf)
 - [Безопасность операционных систем, системное программирование](https://github.com/MJMP48/pictures/blob/main/certificate_4.pdf)
