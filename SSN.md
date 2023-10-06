@@ -48,12 +48,7 @@
 - [Python: курс для начинающих](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/stepik-certificate-Python_beginner.pdf)
 - [Python: курс для продвинутых](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/stepik-certificate-Python_advanced.pdf)
 - [Интерактивный тренажер по SQL](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/stepik-certificate-SQL.pdf)
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Портфолио:)](https://git.io/typing-svg)
-
 - [Работа Penetration Testing](https://hackmd.io/JuRaVzQxTQ2HJTwWF2Nmkg?view)
-- [Курсовая работа"Защищённый контур"](https://github.com/MJMP48/LB/blob/main/Course%20work%201.pdf)
-- [Курсовая работа"DevSecOps"](https://github.com/MJMP48/LB/blob/main/Course%20work%202.pdf)
 
 
 
