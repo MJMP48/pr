@@ -34,7 +34,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Сертификаты:)](https://git.io/typing-svg)
 
-- [Основы информационной безопасности](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/certificate_1.pdf)
+- [Kaspersky Industrial CyberSecurity (038.4.1)](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/KICS.pdf)
 - [Сети передачи данных и безопасность](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/certificate_2.pdf)
 - [Git — система контроля версий](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/certificate_3.pdf)
 - [Безопасность операционных систем, системное программирование](https://github.com/MJMP48/pc/blob/344e92536fa82cc0890e7a1a0a07f9bfe73f618a/certificate_4.pdf)
